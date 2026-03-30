@@ -15,7 +15,7 @@ def agregar_tareas():
 
 def menu():
     while True:
-        print("\n=== GESTOR DE TAREAS ===")
+        print("\n=== APP DE TAREAS DEL EQUIPO ===")
         print("1. Ver tareas")
         print("2. Agregar tareas")
         print("3. Salir")
